@@ -1,0 +1,56 @@
+body {
+    background-color: #D6E6F2;
+    font-family: Arial, sans-serif;
+}
+
+.sidebar .sidebar-content {
+    background-color: #303481; /* Navy color for sidebar */
+    color: white; /* White text for better contrast */
+    border-right: 2px solid #303481;
+}
+
+.stButton>button {
+    background-color: #303481;
+    color: white;
+    border: 2px solid #FFF200;
+    border-radius: 5px;
+}
+
+.stMarkdown p {
+    font-size: 14px;
+    color: #303481;
+}
+
+.stDataFrame, .stTable {
+    background-color: #F5F5F5;
+    color: black;
+    border: 2px solid #303481;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.stHeader, .stSubheader, .stTitle {
+    color: #303481;
+}
+
+.stMarkdown a {
+    color: #FFF200;
+}
+
+.plot-container {
+    border: 2px solid #303481;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #FFFFFF;
+}
+
+.plot-container .plotly {
+    border: 1px solid #303481;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+/* Ensure the sidebar text color is applied to all elements within it */
+.sidebar .sidebar-content * {
+    color: white !important;
+}

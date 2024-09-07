@@ -1,0 +1,6 @@
+{
+    "input_variables": ["question"],
+    "output_variables": ["answer"],
+    "template": "Answer the following question about the dataset: {question}"
+  }
+  
