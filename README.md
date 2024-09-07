@@ -1,4 +1,4 @@
-# Chart ML :bar_chart:
+# Exploratory Data Analysis :bar_chart:
 
 A Streamlit app designed to visualize machine learning model results with various charts. This project allows users to load and analyze their machine learning datasets, providing insights through visualizations.
 
