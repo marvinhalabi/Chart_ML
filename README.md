@@ -1,9 +1,3 @@
-I see you've uploaded another `app.py` file. I'll create a new `README.md` for your `Chart_ML` project based on this file and guide you on how to push it to your GitHub repository.
-
-### **README.md for Chart_ML**
-
----
-
 # Chart ML :bar_chart:
 
 A Streamlit app designed to visualize machine learning model results with various charts. This project allows users to load and analyze their machine learning datasets, providing insights through visualizations.
